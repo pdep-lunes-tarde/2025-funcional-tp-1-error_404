@@ -2,11 +2,11 @@
 
 ## Grupo, nombre y legajo de integrantes
 
-- Nombre del grupo: **Completar**
+- Nombre del grupo: ERROR_404
 
 Integrantes:
-- Legajo: **Completar** 
-- Nombre: **Completar**
+- Legajo:  1761596
+- Nombre: Damaris Garcia
 
 - Legajo: **Completar** 
 - Nombre: **Completar**
