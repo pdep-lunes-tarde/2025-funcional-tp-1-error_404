@@ -2,11 +2,11 @@
 
 ## Grupo, nombre y legajo de integrantes
 
-- Nombre del grupo: **Completar**
+- Nombre del grupo: **ERROR_404**
 
 Integrantes:
-- Legajo: **Completar** 
-- Nombre: **Completar**
+- Legajo: **2037063** 
+- Nombre: **Uriel Granero Ganem**
 
 - Legajo: **Completar** 
 - Nombre: **Completar**
