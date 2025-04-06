@@ -2,14 +2,14 @@
 
 ## Grupo, nombre y legajo de integrantes
 
-- Nombre del grupo: ERROR_404
+- Nombre del grupo: **ERROR_404**
 
 Integrantes:
-- Legajo:  1761596
-- Nombre: Damaris Garcia
+- Legajo: **2037063** 
+- Nombre: **Uriel Granero Ganem**
 
-- Legajo: **Completar** 
-- Nombre: **Completar**
+- Legajo: **1761596** 
+- Nombre: **Damaris Garcia**
 
 
 ## Objetivos

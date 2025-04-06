@@ -39,17 +39,16 @@ haceFrioFahrenheit grados
  |otherwise = False
 -- 2.5 Bonus OPCIONAL
 perimetroCirculo :: Number -> Number
-perimetroCirculo radio = 2* pi * radio
+perimetroCirculo radio = 2 * pi * radio 
 
 perimetroCuadrado :: Number -> Number
 perimetroCuadrado lado = lado * 4
 
 superficieCuadrado :: Number -> Number
-superficieCuadrado lado = lado * lado
+superficieCuadrado lado = lado ^ 2
 
 superficieCubo :: Number -> Number
 superficieCubo lado = 6 * superficieCuadrado lado
 
 superficieCilindro :: Number -> Number -> Number
-superficieCilindro radio altura = implementame
- 
+superficieCilindro radio altura = (2 * pi * radio * altura) + 2 * pi * radio ^ 2
